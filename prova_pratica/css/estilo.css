@@ -1,0 +1,73 @@
+body{
+    background-image:url(../imagem/goku.png);
+    background-size: cover 30%;
+    background-attachment:fixed;
+    background-repeat:no-repeat;
+    background-color: indigo;
+    background-position: top right;
+}
+
+h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    color: goldenrod;
+    border: gold;
+    border-style: dotted;
+    background-color: darkmagenta;
+    border-radius: 10px;
+}
+
+#pt1 fieldset{
+    border: solid 5px gold;
+}
+
+#pt1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+}
+
+#pt2 fieldset{
+    border: solid 5px gold;
+}
+
+#pt2 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+}
+
+#pt3 fieldset{
+    border: solid 5px gold;
+}
+
+#pt3 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+}
+
+#pt4 fieldset{
+    border: solid 5px gold;
+}
+
+#pt4 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+}
+
+#pt5 fieldset{
+    border: solid 5px gold;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#message {
+    resize: none;
+}
+
+button{
+    background-color: darkmagenta;
+    width: 100px;
+    border-radius: 5px;
+    height: 40px;
+    color: white;
+}
+
